@@ -1,3 +1,0 @@
-pip install --upgrade opencv-python
-pip install --upgrade opencv-contrib-python
-cd vào folder yolov5 && pip install -r requirements.txt

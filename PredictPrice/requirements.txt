@@ -1,9 +1,0 @@
-# pip install -r requirements.txt
-
-# Base ----------------------------------------
-keras
-sklearn
-matplotlib
-pandas
-numpy
-tensorflow
